@@ -14,7 +14,6 @@
 ```
 nimap_rag_project/
 ├── app/
-│   ├── __init__.py
 │   ├── config.py
 │   ├── main.py
 │   ├── models.py
